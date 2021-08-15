@@ -1,0 +1,52 @@
+body {
+    font-family: 'Ubuntu';
+    color:rgb(0, 0, 0);
+    background: rgb(255,255,255);
+background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(235,235,235,1) 25%, rgba(222,222,222,1) 50%, rgba(203,203,203,1) 75%, rgba(140,140,140,1) 100%);
+}
+
+.header_div {
+    color: rgb(202, 202, 202);
+    background-color: rgb(31, 31, 31);
+    position:fixed;
+}
+
+.header_div img {
+    width: 100px;
+}
+.copyright_footer {
+    padding-top: 0px;
+    position: fixed;
+    border-color: antiquewhite;
+    color: rgb(255, 255, 255);
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(39, 39, 39);
+    line-height: 3;
+    text-align: center;
+}
+.result_1, .result_2, .result_3, .result_4, .result_5 {
+    border: 2px solid rgb(0, 0, 0);
+    width: 320px;
+    height: 110px;
+    box-shadow: 5px 5px 18px rgb(35, 37, 37);
+}
+h2 {
+    font-family: 'Stint Ultra Expanded';
+}
+u {
+    font-family: 'Abel';
+    font-size: 40;
+    color:rgb(73, 82, 92);
+}
+h4 {
+    font-family: 'EB Garamond'
+}
+h5 {
+    font-family: 'Merriweather';
+    font-size: 20;
+}
+ol {
+    padding-top: 70px;
+    padding-bottom: 50px;
+}
